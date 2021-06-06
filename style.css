@@ -17,3 +17,17 @@ section {
     margin: auto;
     box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.452);
 }
+
+#foto {
+    width: 350px;
+    height: 350px;
+}
+
+div {
+    text-align: center;
+    padding: 6px;
+}
+
+#msg {
+    font-size: 24px;
+}
